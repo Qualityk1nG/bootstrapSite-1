@@ -1,2 +1,2 @@
-# bootstrapSite-1
+# BootstrapSite-1
 Simple Website created using bootstrap
